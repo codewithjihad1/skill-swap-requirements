@@ -1,3 +1,4 @@
+```
 SkillShareHub/
 ├── README.md
 ├── .env.local
@@ -319,3 +320,4 @@ SkillShareHub/
 ├── deploy.sh
 ├── seed-db.ts
 └── migration.ts
+```
